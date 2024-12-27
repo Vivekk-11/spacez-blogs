@@ -2,7 +2,6 @@
 id: "celebrate-diwaloween-at-spacez.md"
 title: "Celebrate Diwaloween at Spacez: A Unique Festive Fusion!"
 description: "This October and early November, Spacez is excited to present a one-of-a-kind experience for our guests—Diwaloween! Imagine the sparkle of Diwali lights combined with Halloween’s playful spookiness, creating an enchanting atmosphere that feels both festive and unique. Here’s what makes Spacez the ultimate choice for a memorable stay this festive season."
-image:![](https://res.cloudinary.com/dz3tveb47/image/upload/v1735274938/regal-sapphire-fourth-bedroom_2_r7tyku.webp)
 ---
 
 # Celebrate Diwaloween at Spacez: A Unique Festive Fusion!
