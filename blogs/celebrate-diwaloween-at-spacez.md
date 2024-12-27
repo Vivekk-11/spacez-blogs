@@ -16,7 +16,7 @@ This October and early November, Spacez is excited to present a one-of-a-kind ex
 
 ## 🎃🪔 What to Expect: Diwali Meets Halloween at Spacez 🎃🪔
 
-<p align="center"> <img style="width:250px; height: 250px" src="https://res.cloudinary.com/dz3tveb47/image/upload/v1735274938/regal-sapphire-fourth-bedroom_2_r7tyku.webp" alt="My alt text" /> </p>`
+<img title="" src="https://res.cloudinary.com/dz3tveb47/image/upload/v1735135860/natures-novelle-first-room_8_ozqqdg.webp" alt="" width="519" data-align="center">
 
 For the last week of October and first week of November, every Spacez property is getting a festive makeover! Guests can enjoy a fusion of Diwali’s warm lights and traditional rangolis alongside Halloween’s pumpkins, subtle spooky decor, and themed lighting. The result? A visually stunning space that celebrates both festivals in perfect harmony.
 
