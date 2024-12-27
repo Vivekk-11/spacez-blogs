@@ -1,5 +1,3 @@
-# 
-
 ---
 id: "celebrate-diwaloween-at-spacez.md"
 title: "Celebrate Diwaloween at Spacez: A Unique Festive Fusion!"
